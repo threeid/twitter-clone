@@ -3,6 +3,8 @@ just another twitter clone
 
 todo:
 
-+ add db: mongo or firebase
++ add db: Mongo or Firebase
   
 + better auth handling
+
++ learn to use GraphQL
