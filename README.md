@@ -3,7 +3,6 @@ just another twitter clone
 
 todo:
 
-  add db: mongo or firebase
++ add db: mongo or firebase
   
-  better auth handling
-  
++ better auth handling
