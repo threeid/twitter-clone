@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "faker": "^4.1.0",
+    "nanoid": "^1.0.2",
+    "random-js": "^1.0.8"
+  }
+}

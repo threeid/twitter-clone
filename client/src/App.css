@@ -1,0 +1,30 @@
+body > div,
+body > div > div,
+body > div > div > div.login-form {
+  height: 100%;
+}
+
+.iconHolder {
+  margin-right: 10px;
+}
+
+.smallHeading {
+  margin-left: 5px;
+  font-size: 0.8em;
+  color: silver;
+}
+
+.userProfileAvatar {
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  bottom: -10px;
+}
+
+.userProfileAvatar img {
+  margin: 0 auto;
+  padding: 5px;
+  border: 5px solid #fafafa;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0, 0, 0, 0.2);
+}
